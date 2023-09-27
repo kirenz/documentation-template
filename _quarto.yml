@@ -1,0 +1,21 @@
+project:
+  type: book
+
+execute:
+  freeze: auto
+
+book:
+  title: "book-template"
+  author: "Team X"
+  date: "9/27/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
