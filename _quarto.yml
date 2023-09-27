@@ -31,37 +31,13 @@ book:
         href: https://moodle.hdm-stuttgart.de/login/index.php
         aria-label: Moodle    
 #    background: "#325b74"    
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
 
 
-  sidebar:
-#    background: "#325b74"
-    logo: "images/logo.png"
-    pinned: true
-    align: center
-    tools:
-      - icon: github
-        href: https://github.com/foo
-        text: "GitHub organization"
-      - icon: person-fill
-        text: "Moodle"
-        href: https://moodle.hdm-stuttgart.de/login/index.php
-
-    style: docked
-    search: true
-    collapse-level: 1
-    contents:
-      - section: "Section 1"
-        contents:
-          - href: intro.qmd
-            text: Introduction
-      - section: "Section 2"
-        contents:
-          - href: summary.qmd
-            text: "Summary"
-      - section: "Section 3"
-        contents:
-          - href: references.qmd
-            text: "References"
 
 format:
   html:
