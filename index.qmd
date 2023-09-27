@@ -3,3 +3,7 @@
 This is a Quarto book.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+## Styling
+
+- [HTML Themes](https://quarto.org/docs/output-formats/html-themes.html)
