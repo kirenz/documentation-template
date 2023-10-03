@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Documentation",
+    "title": "Template",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+    "text": "Preface\nThis is a Quarto book template.\nTo learn more about Quarto books visit https://quarto.org/docs/books. To change the style of the book take a look at the HTML Themes"
   },
   {
     "objectID": "intro.html",
