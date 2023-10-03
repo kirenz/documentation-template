@@ -1,1 +1,1 @@
-Sitemap: https://foogithub.io/foo/sitemap.xml
+Sitemap: https://ORGNAME.github.io/REPONAME/sitemap.xml
